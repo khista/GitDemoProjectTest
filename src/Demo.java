@@ -6,7 +6,8 @@ public class Demo {
 		System.out.println("First git project");
 		System.out.println("new code added");
 		int a=10;
-		if(a<20) {
+		int y = 20;
+		if(a<20 || y ==20) {
 			System.out.println("a < 20");
 		}
 	}
